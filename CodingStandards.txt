@@ -1,0 +1,2 @@
+This is my first code guideline document
+Author: Alex
