@@ -1,2 +1,5 @@
 This is my first code guideline document
 Author: Alex
+
+Author : Dev2
+Code review completed.
